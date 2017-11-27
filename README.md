@@ -15,7 +15,7 @@ Al iniciar se mostrara el triángulo de prueba y en la esquina superior izquierd
 
 Al cambiar de lugar, el pixel cambiará de color según sea el resultado del algoritmo de Pineda con el triángulo. 
 
-![Pineda1](imagenes/Pineda1.png)
+![Pineda1](CompVisualProy/imagenes/Pineda1.png)
 ![Pineda2](imagenes/Pineda2.png)
 
 ## Overlap
