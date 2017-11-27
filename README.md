@@ -15,8 +15,8 @@ Al iniciar se mostrara el triángulo de prueba y en la esquina superior izquierd
 
 Al cambiar de lugar, el pixel cambiará de color según sea el resultado del algoritmo de Pineda con el triángulo. 
 
-![Texto Alternativo](imagenes/Pineda1.png "Título Opcional")
-![Texto Alternativo](imagenes/Pineda2.png "Título Opcional")
+![Pineda1](imagenes/Pineda1.png)
+![Pineda2](imagenes/Pineda2.png)
 
 ## Overlap
 
@@ -29,8 +29,8 @@ En la primera linea del código es posible modificar la cantidad se pixeles a mo
 `int squares = 23;`
 
 
-![Texto Alternativo](imagenes/Raster1.png "Título Opcional")
-![Texto Alternativo](imagenes/raster2.png "Título Opcional")
+![Raster1](/imagenes/Raster1.png)
+![Raster2](/imagenes/raster2.png)
 
 ## Barycentric coordinates
 
@@ -38,8 +38,8 @@ En esta implementación se empleo la teoría de las coordenadas barícentricas p
 
 A medida que se mueve el cursor por dentro del triángulo se puede ver como varían lo triángulos internos y el valor de las coordenadas baricéntricas ubicadas en parte superior izquierda, ademas también es posible modificar el triángulo para observar de distintas maneras las coordenadas, esto de la misma manera que en los anteriores, con los tres botones disponibles en el mouse.
 
-![Texto Alternativo](imagenes/Barycentric1.png "Título Opcional")
-![Texto Alternativo](imagenes/barycentric2.png "Título Opcional")
+![Barycentric1](/imagenes/Barycentric1.png)
+![Barycentric2](/imagenes/Barycentric2.png)
 
 Es importante tener en cuenta que todos los sketch parten de la idea del algoritmo de **Juan Pineda** para encontrar si un pixel se encuentra dentro de un triángulo, implementada en la función `insideTriangle` que recibe los valores _x_ y _y_ de los puntos en donde se encuentran los vertices y los valores _x_ y _y_ del punto a evaluar. 
 
@@ -56,7 +56,7 @@ int vertexG = 255;
 int vertexB = 255;
 ```
 
-![Texto Alternativo](/Users/Jose/Desktop/Proyecto_final_computación_visual/imagenes/Together1.png "Título Opcional")
-![Texto Alternativo](/Users/Jose/Desktop/Proyecto_final_computación_visual/imagenes/Together2.png "Título Opcional")
-![Texto Alternativo](/Users/Jose/Desktop/Proyecto_final_computación_visual/imagenes/Together3.png "Título Opcional")
+![Together1](/imagenes/Together1.png)
+![Together2](/imagenes/Together2.png)
+![Together3](/imagenes/Together3.png)
 
